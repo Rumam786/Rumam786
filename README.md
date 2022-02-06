@@ -2,6 +2,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Html and Typescript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... my fb id (Ruman SUkhera)
+- 📫 How to reach me ... my fb id (Ruman Sukhera)
 
 
