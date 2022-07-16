@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rumansukhera786@gmail.com**
 
-- 📄 Know about my experiences [Html and Vue](Html and Vue)
+- 📄 Know about my experiences (Html and Vue)
 
 - ⚡ Fun fact **I think i am funny**
 
