@@ -1,7 +1,7 @@
-![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)
+![MasterHead](https://img.freepik.com/free-vector/web-site-development-programming-coding_107791-2187.jpg?size=626&ext=jpg&ga=GA1.2.2028269710.1657994136)
 <h1 align="center">Hi 👋, I'm Ruman Ali</h1>
 <h3 align="center">A passionate frontend developer from Islamabad (Pakistan)</h3><br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumam786&label=Profile%20views&color=0e75b6&style=flat" alt="rumam786" /> </p>
 
