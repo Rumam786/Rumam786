@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Vue.js**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rumam786](https://github.com/Rumam786)
 
