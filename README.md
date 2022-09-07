@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/ruman" target="blank"><img src="https://img.shields.io/twitter/follow/ruman?logo=twitter&style=for-the-badge" alt="ruman" /></a> </p>
 
-- 🔭 I’m currently working on **Core Java**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Core Java**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rumam786](https://github.com/Rumam786)
 
-- 💬 Ask me about **Vue and Html**
+- 💬 Ask me about **Vue.Js, Html and Java**
 
 - 📫 How to reach me **rumansukhera786@gmail.com**
 
-- 📄 Know about my experiences (Html,Vue.Js and Core Java)
+- 📄 Know about my experiences (Html, Vue.Js and Java)
 
 - ⚡ Fun fact **I think i am funny**
 
