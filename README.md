@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/ruman" target="blank"><img src="https://img.shields.io/twitter/follow/ruman?logo=twitter&style=for-the-badge" alt="ruman" /></a> </p>
 
-- 🔭 I’m currently working on **MYSQL**
+- 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **MYSQL**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rumam786](https://github.com/Rumam786)
 
-- 💬 Ask me about **Vue.Js, Html, Java And MYSQL**
+- 💬 Ask me about **Vue.Js, Html, Java, Spring Boot And MYSQL**
 
 - 📫 How to reach me **rumansukhera786@gmail.com**
 
-- 📄 Know about my experiences (Html, Vue.Js, Java And MYSQL)
+- 📄 Know about my experiences (Html, Vue.Js, Java, Spring Boot And MYSQL)
 
 - ⚡ Fun fact **I think i am funny**
 
